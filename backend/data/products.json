@@ -1,0 +1,22 @@
+[
+    {
+        "name":"Dinesh",
+        "age": 21
+    },
+    {
+        "name":"Mani",
+        "age": 50
+    },
+    {
+        "name":"Tharani",
+        "age": 37
+    },
+    {
+        "name":"Vamsi",
+        "age": 29
+    },
+    {
+        "name":"Gokul",
+        "age": 45
+    }
+]
